@@ -44,9 +44,7 @@ logs/
 .env
 .env.*
 
-application.properties
-application.yml
-application.yaml
+
 application-local.yml
 application-local.yaml
 application.properties.local
